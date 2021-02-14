@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ... I am currently working on a Hints and Tips site for Frontend Mentor Challenges, partly to consolidate what I am learning on my own journey and partly to help others who are interested in completing the challenges.
 
 <!--
 **janegca/janegca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
