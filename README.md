@@ -1,4 +1,4 @@
-### Hi ... currently learning HTML, CSS, and JS
+### Hi ... currently working on imporving my HTML, CSS, and JS skills, right now, by playing with CSS Art
 
 <!--
 **janegca/janegca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
