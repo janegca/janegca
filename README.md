@@ -1,4 +1,4 @@
-### Hi ... I am currently working on improving my HTML, CSS, and JS skills, right now, by playing with CSS Art
+### Hi ... I am currently working on improving my HTML, CSS, and JS skills, right now, by playing with ES6
 
 <!--
 **janegca/janegca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
